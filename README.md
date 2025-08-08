@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/github/followers/Shivang1611?label=Followers&style=for-the-badge" alt="GitHub Followers">
   </a>
   <img src="https://komarev.com/ghpvc/?username=Shivang1611&label=Profile+views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
-  <a href="mailto:your.email@example.com">
+  <a href="shivangshukla306@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&style=for-the-badge">
   </a>
 </p>
@@ -32,7 +32,7 @@
 Name: Shivang
 Role: Full Stack Developer | AI Enthusiast
 Location: India
-Interests: Web, AI, Open Source, Gaming, Hiking
+Interests: Web, AI, Open Source, Gaming,Blockchain
 Motto: "Build, Learn, Share, Repeat."
 ```
 
