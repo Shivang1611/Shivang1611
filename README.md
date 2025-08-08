@@ -108,8 +108,4 @@ From algorithms to apps — learning DSA, building backends in Node.js, and craf
 
 ---
 
-<p align="center">
-  <img src="https://media.giphy.com/media/IcifS6QX6Qy9W/giphy.gif" width="120" />
-  <br>
-  <b>Thanks for visiting! 🚀 Let's connect and build something epic!</b>
-</p>
+
