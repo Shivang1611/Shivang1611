@@ -31,7 +31,7 @@
 ```yaml
 Name: Shivang
 Role: Full Stack Developer | AI Enthusiast
-Location: India
+Location: Noida , India
 Interests: Web, AI, Open Source, Gaming,Blockchain
 Motto: "Build, Learn, Share, Repeat."
 ```
