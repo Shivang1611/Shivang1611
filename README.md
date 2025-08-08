@@ -22,7 +22,6 @@
 - 🛠️ [Skills](#skills)
 - 🌟 [Projects](#projects)
 - 📊 [Stats](#stats)
-- 📰 [Latest Activity](#latest-activity)
 - 🤝 [Connect](#connect)
 
 ---
